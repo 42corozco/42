@@ -6,15 +6,31 @@
 #    By: corozco <marvin@42.fr>                     +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2020/08/05 03:29:39 by corozco           #+#    #+#              #
-#    Updated: 2020/08/05 03:35:07 by corozco          ###   ########.fr        #
+#    Updated: 2020/08/17 04:23:08 by corozco          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 # General projects
 
+#Libft
 [submodule "projects/libft"]
-    path = projects/42_libft
-    url = https://github.com/42corozco/42_libft
+	path = projects/42_libft
+	url = https://github.com/42corozco/42_libft
+##############################################################################
 
+
+#Circle_2
 [submodule "projects/ft_server"]
-    path = projects/42_ft_server
-    url = https://github.com/42corozco/42_ft_server
+	path = projects/42_ft_server
+	url = https://github.com/42corozco/42_ft_server
+
+[submodule "projects/42_Cub3D"]
+	path = projects/42_Cub3D
+	url = https://github.com/42corozco/42_Cub3D
+##############################################################################
+
+
+#circle 3
+##############################################################################
+[submodule "projects/42_libasm"]
+	path = projects/42_libasm
+	url = https://github.com/42corozco/42_libasm
