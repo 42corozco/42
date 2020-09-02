@@ -6,7 +6,7 @@
 #    By: corozco <marvin@42.fr>                     +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2020/08/05 03:29:39 by corozco           #+#    #+#              #
-#    Updated: 2020/08/17 04:23:08 by corozco          ###   ########.fr        #
+#    Updated: 2020/09/02 13:21:21 by corozco          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 # General projects
@@ -34,3 +34,8 @@
 [submodule "projects/42_libasm"]
 	path = projects/42_libasm
 	url = https://github.com/42corozco/42_libasm
+
+[submodule "projects/42_ft_services"]
+	path = projects/42_ft_services
+	url = https://github.com/42corozco/42_ft_services
+
